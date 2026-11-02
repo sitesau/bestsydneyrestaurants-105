@@ -1,0 +1,22 @@
+{
+  "wheel_id": 684,
+  "structure": "umbrella",
+  "slug": "bestsydneyrestaurants-105",
+  "project": "restaurants-sydney-faq-120de8e4e83242d6fdd46ccfecbd572388ea4911",
+  "parent_t1_ref": "bestsydneyrestaurants-152",
+  "node_role": "feeder",
+  "money_target": "bestsydneyrestaurants.com.au",
+  "primary_kw": "restaurants sydney faq",
+  "intended_url": "https://sites-e470-2.web.app/restaurants-sydney-faq-120de8e4e83242d6fdd46ccfecbd572388ea4911/",
+  "tier": "T2",
+  "writeback_nonce": "b298a52abd3ee701",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/restaurants-sydney-local-options-compared-3fe2a025f905fb0d9cdd4/",
+      "anchor": "the restaurants sydney local options compared overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
